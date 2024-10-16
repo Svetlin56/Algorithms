@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 double e(int x, int n)
 {
   static double s;
