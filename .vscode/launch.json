@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/svetl/OneDrive/Работен плот/Algorithms/Algorithms",
-      "program": "c:/Users/svetl/OneDrive/Работен плот/Algorithms/Algorithms/build/Debug/outDebug",
+      "cwd": "c:/Users/svetl/OneDrive/Работен плот/Algorithms/Algorithms/Arrays Representations",
+      "program": "c:/Users/svetl/OneDrive/Работен плот/Algorithms/Algorithms/Arrays Representations/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
