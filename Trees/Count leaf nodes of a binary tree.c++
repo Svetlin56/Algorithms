@@ -3,7 +3,7 @@
 #include <stack>
 
 using namespace std;
- 
+
 class Node{
 public:
     Node* lchild;
